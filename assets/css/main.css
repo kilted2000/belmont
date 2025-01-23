@@ -6,10 +6,16 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
 /* custom css */
-.title{
-size: 100%;
-}
+/* .title{
+size: 75%;
+}  */
+@media screen and (max-width: 600px) {
+	.title {
+	  width: 350px;
+	}
+  }
 
 .yum{
 	height: 100%;
