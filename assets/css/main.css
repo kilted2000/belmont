@@ -2452,11 +2452,4 @@ input, select, textarea {
 					margin: 1em 0 0 0;
 					padding: 0;
 					box-shadow: none;
-					border-left: 0;
-				}
-
-					#copyright li:first-child {
-						margin-top: 0;
-					}
-
-	}
+					border-
