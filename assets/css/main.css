@@ -8,9 +8,7 @@
 */
 
 /* custom css */
-/* .title{
-size: 75%;
-}  */
+
 @media screen and (max-width: 600px) {
 	.title {
 	  width: 350px;
@@ -2452,4 +2450,11 @@ input, select, textarea {
 					margin: 1em 0 0 0;
 					padding: 0;
 					box-shadow: none;
-					border-
+					border-left: 0;
+				}
+
+					#copyright li:first-child {
+						margin-top: 0;
+					}
+
+	}
