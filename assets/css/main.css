@@ -10,22 +10,25 @@
 /* custom css */
 
 @media screen and (max-width: 600px) {
-	.title {
+	.menu {
 	  width: 350px;
 	}
   }
 
-.yum{
+  .yum{
 	height: 100%;
-	width: 105%;
+	width: 100%;
 	margin-left: 5px;
 	margin-right: 5px;
 }
-
 .logo{
 	height: 300px;
 	width: 300px;
 	border-radius: 50%;
+}
+
+body{
+	margin: 0;
 }
 /* default css */
 html, body, div, span, applet, object,
